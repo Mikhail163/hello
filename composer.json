@@ -1,0 +1,10 @@
+{
+    "name": "root/www",
+    "authors": [
+        {
+            "name": "Mikhail Uvarov",
+            "email": "mephist0_87@mail.ru"
+        }
+    ],
+    "require": {}
+}
